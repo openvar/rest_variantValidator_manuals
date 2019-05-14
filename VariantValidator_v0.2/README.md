@@ -10,4 +10,4 @@ having a go
 **complete_notebooks**
 - notebooks with all code enabling users to quickly master use of the VariantValidator rest API
 
-***Complete notebooks are stored on the [complete notebooks branch](https://tbc)***
+***Complete notebooks are stored on the [complete notebooks branch](https://https://github.com/openvar/rest_variantValidator_manuals/tree/complete_notebooks)***
