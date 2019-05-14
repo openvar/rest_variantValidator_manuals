@@ -10,4 +10,4 @@
 - notebooks with minimal code enabling users to learn how to use the VariantValidator rest API by getting stuck in and 
 having a go
 
-***Training notebooks are stored on the [training notebooks branch](https://https://github.com/openvar/rest_variantValidator_manuals/tree/training_notebooks)***
+***Training notebooks are stored on the [training notebooks branch](https://github.com/openvar/rest_variantValidator_manuals/tree/training_notebooks)***
