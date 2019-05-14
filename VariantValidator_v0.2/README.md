@@ -5,7 +5,7 @@
 - notebooks with all code enabling users to quickly master use of the VariantValidator rest API
 
 
-## Where to find complete notebooks 
+## Where to find training notebooks 
 **training_notebooks**
 - notebooks with minimal code enabling users to learn how to use the VariantValidator rest API by getting stuck in and 
 having a go
