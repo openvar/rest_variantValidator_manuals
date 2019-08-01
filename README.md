@@ -1,4 +1,4 @@
-# rest_variantValidator_manuals
+# VariantValidator rest API notebooks
 
 Jupyter notebooks containing examples of effective use of the [VariantValidartor rest API](http://rest.variantvalidator.org)
 
@@ -14,3 +14,8 @@ or via [Git issues](https://github.com/openvar/rest_variantValidator_manuals/iss
 
 # Get started
 **See INSTALL_JUPYTER.md**
+
+# Find notebooks
+Notebooks are contained in directories associated with VariantValidator releases *e.g.* the current VariantValidator release is v0.2
+
+Additional README.md files are contained in each of these sub-directories
